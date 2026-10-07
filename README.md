@@ -11,6 +11,7 @@ Manual picked bot of Telegram.
 ## Assistance
 
 - [ChannelBro](https://t.me/ChannelBroBot) / @ChannelBroBot - 帮助管理频道或群，发送消息，绑定 RSS 等，功能略少。
+- [Tiny Telegram Tools](https://tg.zovo.one) — 22 single-purpose Telegram bots: anonymous inbox, party games, expense splitter, habit tracker, reminders, focus timer, and more.
 - [Channels](https://t.me/junction_bot) / @junction_bot - 将多个频道合并转发到频道或群组。收费服务，免费帐号限定 10 个活动频道。自动给一个月的收费帐号体验，限定 100 个活动频道。
 - [Combot](https://t.me/combot) / @combot - 群聊统计。统计项较丰富，用网页展示统计结果，也没多余的命令，不干扰聊天。
 - [Controller Bot](https://t.me/ControllerBot) / @ControllerBot - 管理频道工具，比如定制发信息。需要用到自建 bot token。
